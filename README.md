@@ -1,6 +1,6 @@
-# PatternLibrary
+# Pattern Library
 
-#Current Components 
+# Current Components 
 
 1. Navigation Bar (Nav)
 2. Header Element (carousel or just static)
@@ -10,5 +10,5 @@
 6. Component of your choice
 
 
-#Download
+# Download
 Pattern Library is avaiable.... 
