@@ -3,3 +3,102 @@ aside {
     width: 15%;
     height: auto;
 }
+
+main {
+    float: left;
+    height: auto;
+    width: 70%;
+    padding: 20px;
+    border-left: 4pt solid #3D1255;
+    margin-left: 20px;
+}
+
+nav {
+    
+    height: auto;
+    float: left;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: auto;
+    font-size: 1.3em;
+
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 16px 32px;
+    text-decoration: none;
+
+}
+
+li a.active {
+    background-color: #3D1255;
+    color: white;
+}
+
+li a:hover:not(.active) {
+    background-color: #9775AA;
+    color: white;
+}
+
+.section {
+width: 100%;
+padding-left: 30px;
+background-color: white;
+}
+
+h1 {
+    color: #9775AA;
+    font-family: 'Montserrat', sans-serif;
+}
+h2 {
+    color: #3D1255;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+h3 {
+    color: #582A72;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h4 {
+    color:#764B8E;
+    font-family: 'Montserrat', sans-serif;
+}
+h5{
+    color: #9775AA;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h6 {
+    color: #9775AA;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.code {
+    border: 1px solid darkgrey;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 40px;
+    font-size: 1.5em;
+}
+
+.flex-container {
+    display: flex;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    color: #333333;
+    display: flex;
+    flex-direction: column;
+
+}
