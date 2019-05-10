@@ -4,19 +4,14 @@ aside {
     height: auto;
 }
 
-main {
-    float: left;
-    height: auto;
-    width: 70%;
-    padding: 20px;
-    border-left: 4pt solid #3D1255;
-    margin-left: 20px;
-}
+
 
 nav {
     
     height: auto;
     float: left;
+    position: fixed;
+    width: 200px;
 }
 
 ul {
@@ -46,6 +41,14 @@ li a:hover:not(.active) {
     color: white;
 }
 
+main {
+    float: left;
+    height: auto;
+    width: 70%;
+    padding: 20px;
+    border-left: 4pt solid #3D1255;
+    margin-left: 200px;
+}
 .section {
 width: 100%;
 padding-left: 30px;
@@ -55,12 +58,14 @@ background-color: white;
 h1 {
     color: #9775AA;
     font-family: 'Montserrat', sans-serif;
+    border-bottom: 1pt solid #764B8E;
 }
 h2 {
     color: #3D1255;
     font-family: 'Montserrat', sans-serif;
-
+    border-bottom: 1pt solid #764B8E;
 }
+
 
 h3 {
     color: #582A72;
