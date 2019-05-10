@@ -12,6 +12,7 @@ nav {
     float: left;
     position: fixed;
     width: 200px;
+    padding-top: 100px;
 }
 
 ul {
@@ -46,7 +47,7 @@ main {
     height: auto;
     width: 70%;
     padding: 20px;
-    border-left: 4pt solid #3D1255;
+    border-left: 2pt solid #3D1255;
     margin-left: 200px;
 }
 .section {
@@ -107,3 +108,4 @@ body {
     flex-direction: column;
 
 }
+
