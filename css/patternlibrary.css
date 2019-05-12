@@ -145,3 +145,31 @@ body {
 pre {
     overflow: auto;
 }
+
+.btn {
+    display: inline-block;
+    border: none;
+    outline: none;
+    padding: 10px;
+    font-size: 1em;
+    background-color: transparent;
+    color: #333333;
+    border: solid 1px #d5d5d5;
+    border-radius: 5px;
+    transition: all .3 ease-in-out;
+    margin-left: 120px;
+}
+
+.btn:hover {
+    border-color: #a2a2a2;
+    color: #333333;
+}
+
+.css{
+    border: 1px solid #30BBDC;
+    padding: 5px;
+    border-radius: 10px;
+    margin: 10px;
+    font-size: 1rem;
+    width: 400px;
+}
