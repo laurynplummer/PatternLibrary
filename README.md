@@ -7,7 +7,8 @@
 3. A range of six button types
 4. Jumbotron (call to action)
 5. Footer possibly incorporating social media icon links etc.
-6. Component of your choice
+6. Carousel
+7. Grid System
 
 
 # Download
