@@ -953,3 +953,21 @@ i:hover {
     flex: 1;
     margin: 8px;
 }
+#Jumbotron {
+    background-color: lightgray;
+    height: 200px;
+    width: auto;
+    padding: 40px;
+    border-radius: 10px;
+
+}
+
+#Jumbobtn {
+    font-size: 1.3em;
+    border: 3px solid #9775AA;
+    background-color:#9775AA;
+    border-radius: 10px;
+    text-decoration:none;
+    height: 250px;
+    color: black;
+}
