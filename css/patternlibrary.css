@@ -48,7 +48,7 @@ main {
     float: left;
     height: auto;
     width: 70%;
-    padding: 20px;
+    padding: 40px;
     border-left: 2pt solid #3D1255;
     margin-left: 200px;
 }
@@ -937,4 +937,19 @@ i {
 i:hover {
     color: gray;
 }
- 
+
+.col-options {
+    list-style: circle;
+    margin-left: 20px;
+    font-size: 1em;
+}
+
+.col-example {
+    background-color:#30BBDC;
+    height: 30px;
+}
+.column {
+    display: flex;
+    flex: 1;
+    margin: 8px;
+}
