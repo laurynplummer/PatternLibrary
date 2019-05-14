@@ -973,24 +973,25 @@ i:hover {
 }
 
 .nav-wrapper{
-    height: 80px;
+    height: 70px;
     width: 100%;
-    background-color: blue;
+    background-color: #582A72;
 
 }
  .nav-list li{
-        float:left;
-        padding:0;
+    float: left;
+    padding-top:20px;
+    margin: 0;
 }
 
 .nav-list li a {
-    font-size: 3em;
-    display: inline-block;
-    list-style: none;
+    font-size: 2em;
+    display:inline;
 }
 
 .nav-list li a:hover{
-    background-color: #30BBDC;
+    background-color: #582A72;
+    color: white;
 }
 
 .pagination {
