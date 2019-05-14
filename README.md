@@ -13,3 +13,7 @@
 
 # Download
 Pattern Library is avaiable.... 
+
+# Pattern Library
+The Pattern Library can be found here:
+https://laurynplummer.github.io/PatternLibrary/index.html
