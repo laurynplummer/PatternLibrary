@@ -12,7 +12,7 @@
 
 
 # Download
-Pattern Library is avaiable.... 
+Pattern Library is available <a href="Downloads/PatternLibrary.zip"> here</a>
 
 # Pattern Library
 The Pattern Library can be found here:
